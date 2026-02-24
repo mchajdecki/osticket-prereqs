@@ -112,7 +112,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   </ol>
 </p>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_23.jpg"  alt="CreatingaVirtualMachine _ Slide_23">
+  <img src="https://github.com/mchajdecki/osticket-prereqs/blob/1789638b8d0b4ac2dd40e20f6382cbfd35579a8a/images/Slide-5.jpg"  alt="CreatingaVirtualMachine _ Slide_5">
 </p>
 <br>
 <hr>
