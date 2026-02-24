@@ -28,10 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
-  
-<br>
-<br>
-<br>
+
 <br>
 
 <h2>This tutorial outlines the following</h2>
