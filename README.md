@@ -304,7 +304,7 @@ created.</li>
 
 <p>
   <ol type="1">
-    <li>Click the following link here [![Download ZIP](https://img.shields.io)](https://github.com)
+    <li>Click the following link to download the osticket files - <a href="sha256:ad230dd4236de1b21dc6e58cdf9f393e579f17963a240f8727bfc050df68659a">
 
 </li>
     <li></li>
