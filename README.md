@@ -182,7 +182,7 @@ created.</li>
 <hr>
 
 
-<h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows Virtual Machine. Towards the end of the tutorial the reverse will be shown.</h3>
+<h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows Virtual Machine</h3>
 
 
 <p>
