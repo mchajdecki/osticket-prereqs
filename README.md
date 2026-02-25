@@ -37,6 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <li><a href="#rg">Creating Resource Group</a></li>
 <li><a href="#vm">Creating a Virtual Machine</a></li>
 <li><a href="#login">Logging Into Virtual Machine</a></li>
+<li><a href="download">Download The osTicket Installation Files</a></li>
 </ul>
 
 <br/>
@@ -166,7 +167,7 @@ created.</li>
 <hr>
   
 
-<h1 id="login">Logging Into a Virtual Machine</h1>
+<h1 id="login"><i>Logging Into a Virtual Machine</i></h1>
 
 <p>
   <ol type="1">
@@ -298,3 +299,19 @@ created.</li>
  <br>
  <br>
  <hr>
+
+ <h1 id="download">Download The osTicket Installation Files </h1>
+
+<p>
+  <ol type="1">
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
+</p>
+<p>
+  <img src="" alt="">
+</p>
+<br>
+<hr>
+
