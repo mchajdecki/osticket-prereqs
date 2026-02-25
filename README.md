@@ -304,7 +304,8 @@ created.</li>
 
 <p>
   <ol type="1">
-    <li></li>
+    <li>Click the following link here [![Download ZIP](https://img.shields.io)](https://github.com)
+</li>
     <li></li>
     <li></li>
   </ol>
