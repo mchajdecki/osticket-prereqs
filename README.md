@@ -300,7 +300,7 @@ created.</li>
  <br>
  <hr>
 
- <h1 id="download">Download The osTicket Installation Files </h1>
+ <h1 id="download"><i>Download The osTicket Installation Files</i></h1>
 <h3>The next portion of the installation will all take place inside the virtual machine.</h3>
 <p>
   <ol type="1">
