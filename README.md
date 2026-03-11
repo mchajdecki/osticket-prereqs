@@ -310,7 +310,7 @@ created.</li>
     <li>The direct download will appear in the downloads to the right on the browser.</li>
     <li>Click on the folder icon to go to the dedicated folder that the osTicket-Installation-Files downloaded into.</li>
 <p>
-   <img src="https://github.com/mchajdecki/osticket-prerequisites/blob/3010c43b0e8bb402783a91227036371df13b79ef/images/Slide-9.jpg" alt"Downloading osTicket">
+   <img src="https://github.com/mchajdecki/osticket-prerequisites/blob/3010c43b0e8bb402783a91227036371df13b79ef/images/Slide-9.jpg" alt="DownloadingosTicket-Slide-9">
 </p>
 
   <img src="" alt="">
@@ -318,3 +318,15 @@ created.</li>
 <br>
 <hr>
 
+
+<p>
+ <ol type="1">
+ <li>Extract the zip file to the desktop..</li>
+ <li>Extracted file will appear on the desktop</li>
+ </ol>
+ </p>
+<p>
+  <img src="" alt="DownloadingosTicket-Slide_10">
+</p>
+ <br>
+ <hr>
