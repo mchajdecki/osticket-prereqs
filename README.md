@@ -307,7 +307,9 @@ created.</li>
     <li>The next portion of the installation will all take place inside the virtual machine.</li>
     <li>In the virtual machine click the following link to download the osticket installation files <a href="https://github.com/mchajdecki/osticket-prerequisites/releases/latest/download/osTicket-Installation-Files.zip" class="btn">
    Download Here </a>
-
+<p>
+   <img src="https://github.com/mchajdecki/osticket-prerequisites/blob/3010c43b0e8bb402783a91227036371df13b79ef/images/Slide-9.jpg" alt"Downloading osTicket">
+</p>
 
 </li>
     <li></li>
