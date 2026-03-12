@@ -340,3 +340,14 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <p>
+ <ol type="1">
+ <li>Click on - Turn Windows features on or off.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/96e10f37c05d6e40a22deb00e7641a022f6e4c04/images/Slide_12.jpg" alt="DownloadosTicket-Slide_12">
+</p>
+ <br>
+ <hr>
