@@ -309,6 +309,8 @@ created.</li>
       <li>The provided link should download the folder directly - if the Google Drive message pops up select - Download anyway button to continue.</li>
     <li>The direct download will appear in the downloads to the right on the browser.</li>
     <li>Click on the folder icon to go to the dedicated folder that the osTicket-Installation-Files downloaded into.</li>
+  </ol>
+  </p>
 <p>
    <img src="https://github.com/mchajdecki/osticket-prerequisites/blob/3010c43b0e8bb402783a91227036371df13b79ef/images/Slide-9.jpg" alt="DownloadosTicket-Slide-9">
 <br>
