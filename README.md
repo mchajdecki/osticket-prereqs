@@ -422,3 +422,27 @@ created.</li>
  <br>
  <hr>
 
+ <h1><i>Create the directory C:\PHP</i></h1>
+ <p>
+ <ol type="1">
+ <li>Right click the folder in the toolbar.</li>
+ <li>Navigate to File Explorer.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/082953415888f2d43735f652de9bef486ba92b01/images/Slide_18.jpg" alt="DownloadosTicket-Slide_18">
+</p>
+ <br>
+ <hr>
+
+ <p>
+ <ol type="1">
+ <li>Navigate to the Windows (C:) drive.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/3b2527699a34eccca10dad745da2271bbd09e5ee/images/Slide_19.jpg" alt="DownloadosTicket-Slide_19">
+</p>
+ <br>
+ <hr>
+
