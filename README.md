@@ -372,6 +372,8 @@ created.</li>
  <br>
  <hr>
 
+
+<h1><i>Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</i></h1>
 <p>
  <ol type="1">
  <li>From the osTicket-Installation-Files folder - double click the PHPManagerForIIS_V1.5.0 file to begin install.</li>
@@ -396,3 +398,14 @@ created.</li>
  <br>
  <hr>
 
+ <h1><i>Install the Rewrite Module (rewrite_amd64_en-US.msi)</i></h1>
+ <p>
+ <ol type="1">
+ <li>From the osTicket-Installation-FIles folder - double click the rewrite_amd64_en-US.msi file to begin install.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/5a578b692e43c9790f8999a8a410f648473ef525/images/Slide_16.jpg" alt="DownloadosTicket-Slide_16">
+</p>
+ <br>
+ <hr>
