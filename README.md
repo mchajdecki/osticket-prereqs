@@ -494,3 +494,16 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <h1><i>Install the VC_redist.x86.exe.</i></h1>
+<p>
+ <ol type="1">
+ <li>From the osTicket-Installation-Files folder - double click the VC_redist.x86.exe. file to begin install.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/fff7394d4847ac8c4df5d1fb16d7ce7018c3b713/images/Slide_24.jpg" alt="DownloadosTicket-Slide_24">
+</p>
+ <br>
+ <hr>
+
