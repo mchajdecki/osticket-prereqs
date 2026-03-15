@@ -507,3 +507,16 @@ created.</li>
  <br>
  <hr>
 
+ <p>
+ <ol type="1">
+ <li>Check the box to agree to license and conditions and click on Install.</li>
+   <li>Click on close when installation is done.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/8e07e428abe39f594e33c1d03592124546ba9640/images/Slide_25.jpg" alt="DownloadosTicket-Slide_25">
+</p>
+ <br>
+ <hr>
+
+
