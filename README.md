@@ -538,8 +538,21 @@ created.</li>
  </ol>
  </p>
 <p>
-  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/1808a15fd1fd9c2f05fb34e2351f8d41616f838e/images/Slide_27.jpg" alt="DownloadosTicket-Slide_27">
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/0d6ff956cfcc8d1a5322385c1d98ca50d15a281f/images/Slide_27.jpg" alt="DownloadosTicket-Slide_27">
 </p>
  <br>
  <hr>
 
+
+ <h1><i>Configuring the MySQL Server 5.5 server instance.</i></i></h1>
+<p>
+ <ol type="1">
+ <li>Go throught the configuration by following the highlighted options.</li>
+ <li>In the security options type in root and confirm for the password.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/cab060985702ecd268c38e4b12d93c9d4affc96f/images/Slide_28.jpg" alt="DownloadosTicket-Slide_28">
+</p>
+ <br>
+ <hr>
