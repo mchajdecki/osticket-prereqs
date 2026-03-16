@@ -582,7 +582,7 @@ created.</li>
  <br>
  <hr>
 
-    <p>
+  <p>
  <ol type="1">
  <li>Click on Register new PHP version.</li>
  <li>A window to provide a path to the php executable file will pop up.</li>
