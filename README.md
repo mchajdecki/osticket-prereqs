@@ -519,4 +519,27 @@ created.</li>
  <br>
  <hr>
 
+ <h1><i>Install the MySQL 5.5.62 (mysql-5.5.62-win32.msi).</i></h1>
+<p>
+ <ol type="1">
+ <li>From the osTicket-Installation-Files folder - double click the mysql-5.5.62-win32.msi.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/b61706646238a82f69f025825819de67e9bdc6c1/images/Slide_26.jpg" alt="DownloadosTicket-Slide_26">
+</p>
+ <br>
+ <hr>
+
+  <p>
+ <ol type="1">
+ <li>Go throught the install by selecting the highlighted options.</li>
+ <li>At the end of the installation check the (Launch the MySQL Instance Configuration Wizard) box for the configuration options to open.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/1808a15fd1fd9c2f05fb34e2351f8d41616f838e/images/Slide_27.jpg" alt="DownloadosTicket-Slide_27">
+</p>
+ <br>
+ <hr>
 
