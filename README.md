@@ -648,3 +648,18 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <p>
+ <ol type="1">
+ <li>Go to This PC --> Windows(C:) --> inetpud.</li>
+ <li>In the inetpud folder go to wwwroot folder.</li>
+   <li>Copy and paste the upload folder to the wwwroot folder.</li>
+   <li>right click on the pasted folder and click on Rename.</li>
+   <li>Rename the folder to osTicket</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/82fc27c2cfb56f9892e63d25822ff6a7554b68d4/images/Slide_36.jpg" alt="DownloadosTicket-Slide_36">
+</p>
+ <br>
+ <hr>
