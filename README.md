@@ -611,3 +611,16 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <h1><i>Install osTicket v1.15.8.</i></i></h1>
+<p>
+ <ol type="1">
+ <li>From the osTicket-Installation-Files right click the osTicket-v1.15.8 and select Extract All into the destination provided.</li>
+   <li>Click Extract to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/bcbe1c5d7374e779d06282ec1356ea166a23c0e1/images/Slide_33.jpg" alt="DownloadosTicket-Slide_33">
+</p>
+ <br>
+ <hr>
