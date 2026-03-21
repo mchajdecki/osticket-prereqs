@@ -663,3 +663,15 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <p>
+ <ol type="1">
+ <li>Navigate back to ISS (Internet Information Services).</li>
+ <li>In the actions menu under Manage Server - Stop and Start the server or restart it to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/82b4012e94b86a5447cf7c1c359cb9bac9a2c984/images/Slide_37.jpg" alt="DownloadosTicket-Slide_37">
+</p>
+ <br>
+ <hr>
