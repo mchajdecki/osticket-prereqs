@@ -675,3 +675,29 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ 
+  <h1><i>Launch osTicket browser.</i></i></h1>
+<p>
+ <ol type="1">
+ <li>Navigate to (IIS) Internet Information Services Manager.</li>
+   <li>Go to Sites --> Default Web Site --> osTicket</li>
+   <li>Then click on Browse *:80 (http).</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/c976abc7767e9ffac83722d3fc10751cd2d65396/images/Slide_38.jpg" alt="DownloadosTicket-Slide_38">
+</p>
+ <br>
+ <hr>
+
+  <p>
+ <ol type="1">
+ <li>After clicking on Browse *:80 (http) the osTicket browser window will show.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/7467b64ffc663bf55dfdb286d8a7c060640b62c9/images/Slide_39.jpg" alt="DownloadosTicket-Slide_39">
+</p>
+ <br>
+ <hr>
